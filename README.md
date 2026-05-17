@@ -1,19 +1,21 @@
 # Suk-Builder Standards
 
-README templates, audit scripts, and ecosystem standards for the Suk-Builder organization.
+> Suk-Builder 生态标准规范 — 定义组织的协作与质量标准。
 
-## Audit System
+**Suk-Builder Standards** 是 Suk-Builder 组织的标准规范仓库，涵盖：
+- 仓库结构与命名规范
+- README 与 LICENSE 标准
+- Topics 标签体系
+- 贡献指南与代码规范
 
-Quarterly automated audit of all 20 repositories via GitHub Actions.
+## 所属
 
-Run manually: Actions tab -> Ecosystem Audit -> Run workflow
+[Suk-Builder](https://github.com/Suk-Builder) · 认知基础设施建造者的工坊
 
-## README Standards
+## 技术栈
 
-See `scripts/audit.py` for format requirements.
+Python（验证脚本）
 
-## Topics Tag Standards
+## License
 
-Every repo must include:
-- `builder-system` (core tag)
-- Layer tag + Tech tags
+MIT © Suk-Builder
