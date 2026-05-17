@@ -1,21 +1,23 @@
 # Suk-Builder Standards
 
-> Suk-Builder 生态标准规范 — 定义组织的协作与质量标准。
+> Suk-Builder 组织的标准与规范集合。
 
-**Suk-Builder Standards** 是 Suk-Builder 组织的标准规范仓库，涵盖：
-- 仓库结构与命名规范
-- README 与 LICENSE 标准
-- Topics 标签体系
-- 贡献指南与代码规范
+## 这是什么
 
-## 所属
+本仓库维护 Suk-Builder 组织的标准化文档，包括仓库管理规范、README 模板、Topics 标签体系、以及 Builder-System 域映射规则。
 
-[Suk-Builder](https://github.com/Suk-Builder) · 认知基础设施建造者的工坊
+## 规范体系
 
-## 技术栈
+- 仓库 README 标准模板
+- Topics 标签分类规范
+- Builder-System 九域映射规则
+- 季度审计检查清单
 
-Python（验证脚本）
+## 关联生态
 
-## License
+- [suk-builder-template](https://github.com/Suk-Builder/suk-builder-template) — 模板仓库与自动化审计
+- [Builder-System](https://github.com/Suk-Builder/Builder-System) — 九域闭合体系
 
-MIT © Suk-Builder
+## 许可证
+
+MIT
